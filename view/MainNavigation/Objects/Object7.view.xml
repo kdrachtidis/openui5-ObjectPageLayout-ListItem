@@ -1,0 +1,14 @@
+<mvc:View controllerName="DemoUXapp.controller.MainNavigation.Object"
+    height="100%"
+    xmlns:l="sap.ui.layout"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page class="sapUiContentPadding"
+        title="Task 007"
+        showNavButton="true"
+        navButtonPress="onNavBack"
+        navButtonTooltip="Back">
+        <Text text="This is the Task 007 page. " />
+        <content></content>
+    </Page>
+</mvc:View>

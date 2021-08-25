@@ -84,6 +84,41 @@
                     "pattern": "FixedPage2",
                     "name": "FixedPage2",
                     "target": "FixedPage2"
+                },
+                {
+                    "pattern": "object1",
+                    "name": "object1",
+                    "target": "object1"
+                },
+                {
+                    "pattern": "object2",
+                    "name": "object2",
+                    "target": "object2"
+                },
+                {
+                    "pattern": "object3",
+                    "name": "object3",
+                    "target": "object3"
+                },
+                {
+                    "pattern": "object4",
+                    "name": "object4",
+                    "target": "object4"
+                },
+                {
+                    "pattern": "object5",
+                    "name": "object5",
+                    "target": "object5"
+                },
+                {
+                    "pattern": "object6",
+                    "name": "object6",
+                    "target": "object6"
+                },
+                {
+                    "pattern": "object7",
+                    "name": "object7",
+                    "target": "object7"
                 }
             ],
             "targets": {
@@ -101,6 +136,27 @@
                 },
                 "example4": {
                     "viewName": "MainNavigation.Example4"
+                },
+                "object1": {
+                    "viewName": "MainNavigation.Objects.Object1"
+                },
+                "object2": {
+                    "viewName": "MainNavigation.Objects.Object2"
+                },
+                "object3": {
+                    "viewName": "MainNavigation.Objects.Object3"
+                },
+                "object4": {
+                    "viewName": "MainNavigation.Objects.Object4"
+                },
+                "object5": {
+                    "viewName": "MainNavigation.Objects.Object5"
+                },
+                "object6": {
+                    "viewName": "MainNavigation.Objects.Object6"
+                },
+                "object7": {
+                    "viewName": "MainNavigation.Objects.Object7"
                 },
                 "FixedPage1": {
                     "viewName": "FixedNavigation.FixedPage1"

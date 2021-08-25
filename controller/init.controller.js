@@ -11,7 +11,7 @@ sap.ui.define([
         icon: 'sap-icon://home',
         key: 'MainPage'
       }, {
-        title: 'Example 1',
+        title: 'Standard List Item',
         icon: 'sap-icon://grid',
         key: 'example1'
       }, {
