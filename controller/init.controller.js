@@ -15,7 +15,7 @@ sap.ui.define([
         icon: 'sap-icon://grid',
         key: 'example1'
       }, {
-        title: 'Example 2',
+        title: 'Column List Item',
         icon: 'sap-icon://grid',
         key: 'example2'
       }, {
