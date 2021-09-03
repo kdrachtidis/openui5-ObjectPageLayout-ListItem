@@ -7,6 +7,10 @@ sap.ui.define([
     model: new sap.ui.model.json.JSONModel(),
     data: {
       navigation: [{
+        title: 'Home',
+        icon: 'sap-icon://home',
+        key: 'MainPage'
+      },{
         title: 'Standard List Item',
         icon: 'sap-icon://grid',
         key: 'example1'
